@@ -3,3 +3,8 @@
 /Users/ivant2/Desktop/Repos/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
 /Users/ivant2/Desktop/Repos/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
 /Users/ivant2/Desktop/Repos/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
+/Users/ivant2/Desktop/Repos/HelloWorld/Hello-World/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/ivant2/Desktop/Repos/HelloWorld/Hello-World/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/ivant2/Desktop/Repos/HelloWorld/Hello-World/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ivant2/Desktop/Repos/HelloWorld/Hello-World/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/ivant2/Desktop/Repos/HelloWorld/Hello-World/HelloWorld/obj/x86/Debug/HelloWorld.pdb
