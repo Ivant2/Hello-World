@@ -1,7 +1,8 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{4F660E04-D00B-4A2D-81A7-2E617481A4C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Program.cs">
     <Files>
-      <File FileName="HelloWorld/Program.cs" Line="11" Column="52" />
+      <File FileName="HelloWorld/Program.cs" Line="3" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

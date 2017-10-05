@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             string hello = Console.ReadLine();
-            Console.WriteLine("hi");
+            Console.WriteLine("Hello");
         }
     }
 }
